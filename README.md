@@ -1,4 +1,4 @@
-📊 Exploratory Data Analysis (EDA) Project
+#Exploratory Data Analysis (EDA) Project📊
 
 This project showcases comprehensive Exploratory Data Analysis (EDA) using popular Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
 Multiple real-world datasets from Kaggle—including Austic Weather, Mall Customer Dataset, and Students Performance Dataset—are analyzed to uncover patterns, insights, and trends.
